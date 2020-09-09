@@ -1,1 +1,1 @@
-There are two ways to gnerate pdf in java using itext5 oritext7.
+itext5 and itext7 are the ways to generate the pdf file in java.
